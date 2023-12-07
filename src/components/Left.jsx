@@ -51,7 +51,7 @@ const Left = () => {
 
   return (
     <>
-      <div className="bg-[radial-gradient(ellipse_at_bottom_left,_var(--tw-gradient-stops))] from-[#1FA911CF] from-15% via-[#2F15D0] via-40% to-black to-90% lg:h-full lg:flex flex-col py-4 pl-5 lg:pl-16 2xl:h-[100vh]">
+      <div className="bg-[radial-gradient(ellipse_at_bottom_left,_var(--tw-gradient-stops))] from-[#1FA911CF] from-15% via-[#2F15D0] via-40% to-black to-90% lg:h-full lg:flex flex-col py-4 pl-5 lg:pl-16 2xl:h-[100vh] 2xl:pl-[22rem]">
         <div className="lg:flex">
           <div className="space-y-2 lg:pr-40 pr-16">
             <div className="text-white">

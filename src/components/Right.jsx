@@ -20,7 +20,7 @@ export default function Right() {
   };
 
   return (
-    <div className="flex justify-center items-center lg:h-[100vh] my-10 pr-16 lg:pr-0">
+    <div className="flex justify-center items-center lg:h-[100vh] my-10 pr-16 lg:pr-0 2xl:pr-[10rem]">
       <div className="mx-20 lg:mx-24 space-y-4">
         <div className="lg:text-5xl text-2xl text-gray-400">
           Sign up for exclusive access.
